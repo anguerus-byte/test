@@ -1,1 +1,1 @@
-
+bank_password=asdas12as_a
